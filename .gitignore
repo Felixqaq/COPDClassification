@@ -1,0 +1,155 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+.conda/
+miniconda/
+anaconda/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Medical Imaging Files (大型檔案)
+NormalDataset/data/*.nii
+NormalDataset/data/*.nii.gz
+NormalDataset/airway/*.nii.gz
+AbnormalDataset/data/*.nii
+AbnormalDataset/data/*.nii.gz
+AbnormalDataset/airway/*.nii.gz
+pipelineDataset
+pipeline_results
+TestDataset/*.nii
+TestDataset/*.nii.gz
+*.dcm
+*.dicom
+
+# Model Files (大型模型檔案，視需求調整)
+# 排除整個 models 目錄（除了 .gitkeep）
+models/*
+!models/.gitkeep
+NormalDataset/inference_output/
+AbnormalDataset/inference_output/
+
+# Data Directories (原始資料不上傳)
+NormalDataset/data/
+NormalDataset/inference_output/
+NormalDataset/visualizations
+AbnormalDataset/data/
+AbnormalDataset/inference_output/
+AbnormalDataset/visualizations
+Test/
+
+# Output Files
+results/
+inference_output/
+output/
+*.log
+
+# Reports and Metrics (可選，視需求調整)
+# *_report.md
+# *_metrics.json
+# summary_report.md
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Project Specific
+param/
+report/
+selected_params/
+QC_Report/
+airway/*.nii.gz
+
+# Keep important files
+!requirements.txt
+!README.md
+!.gitignore
+
+# Model files (PyTorch models)
+models/*.pth
+models/*.json
+models/
+
+# Airway files
+airway/
+
+# === Large CT / segmentation data — never commit (added 2026-06) ===
+*.nii
+*.nii.gz
+all/
+airway_aeropath/
+AllExtraDataset/
+param_aeropath/
+
+# VesselAirwayParamTransfer is its own separate git repo (embedded) — ignore here
+VesselAirwayParamTransfer/
+
+# === 備份壓縮檔（清空電腦前打包用，勿提交）===
+*.zip
+
+# === 病人資料 / PHI — 含真實病歷號與臨床數據，勿提交（added 2026-08）===
+# 逐病人結果與投票（含病歷號 + 肺功能/OI/肺氣腫等臨床值）
+oi_processed.json
+per_patient_vote_rq1.json
+per_patient_vote_rq1.md
+per_patient_vote_rq2b.json
+per_patient_vote_rq2b.md
+per_patient_vote_rq3.json
+per_patient_vote_rq3.md
+# ROI QC 影像與報告（真實 CT 切片，標題含病歷號）
+all_roi/
+all_roi_box/
+all_roi_masked/
+
+# 內部伺服器位址（真實 IP，勿提交；改用 server_config.example.py 當範本）
+server_config.py

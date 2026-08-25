@@ -1,0 +1,600 @@
+{
+  "applied": 66,
+  "no_mask": [],
+  "impact": [
+    {
+      "base": "1596038_Thorax Lung Br60 S2 3.00",
+      "wa_old": 83.72696485904034,
+      "wa_new": 79.38497803492982,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6418067805078395,
+      "alr_new": 1.0537859317376375,
+      "features_ok": true
+    },
+    {
+      "base": "1746380_Thorax Lung Br60 S2 3.00",
+      "wa_old": 53.55510928723187,
+      "wa_new": 59.75338886166912,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6139922469607304,
+      "alr_new": 3.2825238174631552,
+      "features_ok": true
+    },
+    {
+      "base": "2094528_LUNG AX 1_1 LW",
+      "wa_old": 66.82925284261869,
+      "wa_new": 59.80437736928689,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6777599510908602,
+      "alr_new": 1.200489263130056,
+      "features_ok": true
+    },
+    {
+      "base": "2221276_LW AXI 3_3  B60f",
+      "wa_old": 69.27015307455201,
+      "wa_new": 69.9487881855535,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5840628142911544,
+      "alr_new": 1.0248332731196235,
+      "features_ok": true
+    },
+    {
+      "base": "2500824_LW AXI 3_3  I70f  2",
+      "wa_old": 61.667412823956624,
+      "wa_new": 65.40741762029505,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.49427634726755143,
+      "alr_new": 1.0699854788036265,
+      "features_ok": true
+    },
+    {
+      "base": "2860903_LW AXI 3_3  I70f  2",
+      "wa_old": 72.37338141288313,
+      "wa_new": 74.04737836768777,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.4194382579803096,
+      "alr_new": 0.7821241340621196,
+      "features_ok": true
+    },
+    {
+      "base": "3097765_Thorax CM Lung Br60 S3 3.00",
+      "wa_old": 65.21446819954284,
+      "wa_new": 67.85660491037807,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.7915805293754661,
+      "alr_new": 3.533214424178916,
+      "features_ok": true
+    },
+    {
+      "base": "3635301_Thorax Br60 S3 3.00",
+      "wa_old": 62.45495910154914,
+      "wa_new": 62.79004268041683,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.94898408708859,
+      "alr_new": 1.152054351746352,
+      "features_ok": true
+    },
+    {
+      "base": "4204917_LW AXI 3_3  I70f  2",
+      "wa_old": 64.88891285591026,
+      "wa_new": 70.64959864210192,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5729963127885027,
+      "alr_new": 0.8738008374323808,
+      "features_ok": true
+    },
+    {
+      "base": "4302294_Thorax Lung Br60 S2 3.00",
+      "wa_old": 60.505108648726434,
+      "wa_new": 67.39921094809517,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.347941989973823,
+      "alr_new": 0.8122485194064407,
+      "features_ok": true
+    },
+    {
+      "base": "5046455_LW AXI 3_3  I70f  2",
+      "wa_old": 58.902925531914896,
+      "wa_new": 66.64575928636141,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.43767369447233256,
+      "alr_new": 0.8351302981361037,
+      "features_ok": true
+    },
+    {
+      "base": "5390303_LW AXI 3_3  I70f  2",
+      "wa_old": 61.615848939792606,
+      "wa_new": 68.02655827926586,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6126131365267936,
+      "alr_new": 1.2519330831637425,
+      "features_ok": true
+    },
+    {
+      "base": "6212308_Thorax Lung Br60 S2 3.00",
+      "wa_old": 70.68670158093093,
+      "wa_new": 60.200751889028126,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6414901686945513,
+      "alr_new": 5.061150518944228,
+      "features_ok": true
+    },
+    {
+      "base": "6312603_LW AXI 3_3  B60f",
+      "wa_old": 65.86320718507714,
+      "wa_new": 70.22625075239883,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.43474314212466486,
+      "alr_new": 0.9425386169514784,
+      "features_ok": true
+    },
+    {
+      "base": "6858508_LW AXI 3_3  B60f",
+      "wa_old": 63.020833333333336,
+      "wa_new": 67.18993036444998,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.4443162021378378,
+      "alr_new": 1.0073529606737253,
+      "features_ok": true
+    },
+    {
+      "base": "7871759_~LUNG AX 1_1 LW",
+      "wa_old": 58.633444164029434,
+      "wa_new": 56.14475362991238,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8474089127923227,
+      "alr_new": 1.0731311549424547,
+      "features_ok": true
+    },
+    {
+      "base": "8244460_Thorax 1_1 Br40 S3 1.00",
+      "wa_old": 48.50648311189371,
+      "wa_new": 57.915380809913074,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.7511298811418425,
+      "alr_new": 3.0624023362820623,
+      "features_ok": true
+    },
+    {
+      "base": "8332556_Thorax 1_1 Br40 S3 1.00",
+      "wa_old": 60.2494024732412,
+      "wa_new": 62.871956322013965,
+      "wa_source": "Dedicated File",
+      "alr_old": 1.043401852187376,
+      "alr_new": 1.8528921574846111,
+      "features_ok": true
+    },
+    {
+      "base": "A754735_LW AXI 3_3  B60f",
+      "wa_old": 63.80723095117419,
+      "wa_new": 65.64127676623781,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5896686936631785,
+      "alr_new": 1.1189160217736087,
+      "features_ok": true
+    },
+    {
+      "base": "C081146_LW AXI 3_3  I70f  2",
+      "wa_old": 56.454894867736826,
+      "wa_new": 60.94147219286469,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8913687572194051,
+      "alr_new": 1.1758960291466634,
+      "features_ok": true
+    },
+    {
+      "base": "E717248_Thorax Lung Br60 S2 3.00",
+      "wa_old": 69.29949855645039,
+      "wa_new": 71.63356795709737,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.874792135511031,
+      "alr_new": 1.2690799994151216,
+      "features_ok": true
+    },
+    {
+      "base": "1261736_LW AXI 3_3  B60f",
+      "wa_old": 58.807508997179255,
+      "wa_new": 58.26437972686639,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.3372669664376558,
+      "alr_new": 1.0605325478532979,
+      "features_ok": true
+    },
+    {
+      "base": "1687031_Thorax Lung Br60 S2 3.00",
+      "wa_old": 86.53748411689962,
+      "wa_new": 61.593190464931325,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.3058377905531875,
+      "alr_new": 3.615880947879528,
+      "features_ok": true
+    },
+    {
+      "base": "1800944_Thorax Lung Br60 S2 3.00",
+      "wa_old": 60.019555372581316,
+      "wa_new": 52.21609088801299,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6651708993208458,
+      "alr_new": 3.6909248774840573,
+      "features_ok": true
+    },
+    {
+      "base": "2588424_LW AXI 3_3  B60f",
+      "wa_old": 64.1790434106624,
+      "wa_new": 65.77222582738482,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.45240878384944516,
+      "alr_new": 0.5704856068998772,
+      "features_ok": true
+    },
+    {
+      "base": "2991621_LW  AXI 3.0  B60f",
+      "wa_old": 69.10795042634722,
+      "wa_new": 62.05752870486049,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.9273039422982425,
+      "alr_new": 1.0761937353603175,
+      "features_ok": true
+    },
+    {
+      "base": "3647457_LW AXI 3_3  B60f",
+      "wa_old": 69.10797399699965,
+      "wa_new": 57.084186601255716,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.43963265467638796,
+      "alr_new": 1.5029392834446016,
+      "features_ok": true
+    },
+    {
+      "base": "4372708_LW-insp.  AXI 3_3  B60f",
+      "wa_old": 70.01697443547143,
+      "wa_new": 70.32854975501779,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.3697629359492842,
+      "alr_new": 0.7647270390264322,
+      "features_ok": true
+    },
+    {
+      "base": "4710629_LW  AXI 3.0  I70f  2",
+      "wa_old": 75.02445842068484,
+      "wa_new": 73.14667198086887,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.507420717729053,
+      "alr_new": 0.7117364532674739,
+      "features_ok": true
+    },
+    {
+      "base": "4796667_Thorax Lung Br60 S2 3.00",
+      "wa_old": 73.49602216858854,
+      "wa_new": 58.1932472293021,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6570065823990127,
+      "alr_new": 1.3671829117601457,
+      "features_ok": true
+    },
+    {
+      "base": "5127217_Thorax 1_1 Br40 S3 1.00",
+      "wa_old": 52.78578935307736,
+      "wa_new": 43.265371059330334,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.691852337555364,
+      "alr_new": 1.340133498368049,
+      "features_ok": true
+    },
+    {
+      "base": "5630846_Aorta C+  5.0  B30f",
+      "wa_old": 70.74170704435335,
+      "wa_new": 83.73023343373494,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6842054707535951,
+      "alr_new": 1.8061868359513467,
+      "features_ok": true
+    },
+    {
+      "base": "6887256_Thorax Lung Br60 S2 3.00",
+      "wa_old": 63.07910241138405,
+      "wa_new": 61.431057968820944,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.46644924764579115,
+      "alr_new": 0.793749120555228,
+      "features_ok": true
+    },
+    {
+      "base": "8009284_Thorax Lung Br60 S2 3.00",
+      "wa_old": 62.422896619787814,
+      "wa_new": 66.74244429565732,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5086310955369867,
+      "alr_new": 1.1513804535854182,
+      "features_ok": true
+    },
+    {
+      "base": "8126939_LW AXI 3_3  B60f",
+      "wa_old": 71.09179383001842,
+      "wa_new": 62.652253686141876,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.4694366095352828,
+      "alr_new": 1.0032552513604944,
+      "features_ok": true
+    },
+    {
+      "base": "8404129_Chest C-  5.0  B31f",
+      "wa_old": 59.46480358555233,
+      "wa_new": 72.80387235568304,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5397263802118352,
+      "alr_new": 1.1905854530009028,
+      "features_ok": true
+    },
+    {
+      "base": "8704416_Thorax Lung Br60 S3 3.00",
+      "wa_old": 69.23163250037409,
+      "wa_new": 64.73739425459253,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.7269746709210404,
+      "alr_new": 1.2183597273654618,
+      "features_ok": true
+    },
+    {
+      "base": "9075311_Thorax  5.0  B30f",
+      "wa_old": 72.36926360725721,
+      "wa_new": 78.63452715195508,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8096830138527517,
+      "alr_new": 1.2618784473096836,
+      "features_ok": true
+    },
+    {
+      "base": "9529629_Thorax Lung Br60 S2 3.00",
+      "wa_old": 59.84006571318129,
+      "wa_new": 64.67816944126172,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6568126781095817,
+      "alr_new": 2.354351011091965,
+      "features_ok": true
+    },
+    {
+      "base": "A613117_LW AXI 3_3  B60f",
+      "wa_old": 64.12139801436759,
+      "wa_new": 59.07911398974487,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8805718374328916,
+      "alr_new": 1.141281943147949,
+      "features_ok": true
+    },
+    {
+      "base": "A762364_LW AXI 3_3  B60f",
+      "wa_old": 67.3711725168036,
+      "wa_new": 65.79085470384494,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.44419630491040935,
+      "alr_new": 0.9482048531183144,
+      "features_ok": true
+    },
+    {
+      "base": "B213449_LW AXI 3_3  B60f",
+      "wa_old": 56.984224544150784,
+      "wa_new": 65.03067484662577,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5667858608468136,
+      "alr_new": 1.3817219746396712,
+      "features_ok": true
+    },
+    {
+      "base": "C041635_LW AXI 3_3  I70f  2",
+      "wa_old": 58.73862366278142,
+      "wa_new": 57.07881184476733,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.7263194126171528,
+      "alr_new": 1.0088452553471396,
+      "features_ok": true
+    },
+    {
+      "base": "C435832_LW AXI 3_3  B60f",
+      "wa_old": 70.60999330378496,
+      "wa_new": 69.10990977960188,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.6608511094716795,
+      "alr_new": 1.1654926186591346,
+      "features_ok": true
+    },
+    {
+      "base": "C543831_Thorax Lung Br60 S2 3.00",
+      "wa_old": 63.85840626012872,
+      "wa_new": 62.89675662292646,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.9440424178711071,
+      "alr_new": 1.324137840596403,
+      "features_ok": true
+    },
+    {
+      "base": "C586742_LW AXI 3_3  B60f",
+      "wa_old": 75.12950481813625,
+      "wa_new": 62.37495464676307,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.42853678307870485,
+      "alr_new": 1.3815674521145414,
+      "features_ok": true
+    },
+    {
+      "base": "C905524_Thorax_No CM  3_3  Br60  S2  3.00",
+      "wa_old": 71.07381848598912,
+      "wa_new": 64.29311438894572,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.35393854703119426,
+      "alr_new": 2.857672591300898,
+      "features_ok": true
+    },
+    {
+      "base": "D132855_LW AXI 3_3  B60f",
+      "wa_old": 61.60800606203131,
+      "wa_new": 64.7710098063337,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.976007720129002,
+      "alr_new": 1.4511455486080969,
+      "features_ok": true
+    },
+    {
+      "base": "D550510_Thorax CM Lung Br60 S3 3.00",
+      "wa_old": 62.403654010847845,
+      "wa_new": 68.72511707034744,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5977494383834315,
+      "alr_new": 1.216167560958754,
+      "features_ok": true
+    },
+    {
+      "base": "E353272_LW AXI 3_3  B60f",
+      "wa_old": 68.37843024371521,
+      "wa_new": 62.63760566149007,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.411089038051651,
+      "alr_new": 0.6420909419516403,
+      "features_ok": true
+    },
+    {
+      "base": "E558113_Thorax Lung Br60 S2 3.00",
+      "wa_old": 95.44625082946251,
+      "wa_new": 53.31796320618333,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.19951798599369175,
+      "alr_new": 3.502917553362704,
+      "features_ok": true
+    },
+    {
+      "base": "E647833_Thorax Lung Br60 S2 3.00",
+      "wa_old": 70.0853247158205,
+      "wa_new": 56.83643242085728,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8074568850480052,
+      "alr_new": 1.2826563745307173,
+      "features_ok": true
+    },
+    {
+      "base": "E771850_Thorax Lung Br60 S2 3.00",
+      "wa_old": 63.2729235058686,
+      "wa_new": 65.07349231441928,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5062987369739697,
+      "alr_new": 0.6769243939817913,
+      "features_ok": true
+    },
+    {
+      "base": "E797258_Thorax Lung Br60 S2 3.00",
+      "wa_old": 63.30115729928901,
+      "wa_new": 64.15833060019679,
+      "wa_source": "Dedicated File",
+      "alr_old": 1.1113988606272722,
+      "alr_new": 1.4068836477461426,
+      "features_ok": true
+    },
+    {
+      "base": "0781915_~LUNG AX 1_1 LW",
+      "wa_old": 64.81861278283965,
+      "wa_new": 57.23339248308895,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.9377753885589699,
+      "alr_new": 1.1815755496735931,
+      "features_ok": true
+    },
+    {
+      "base": "1604378_Insp. Phase  Lung  Br60  S3  3.00",
+      "wa_old": 85.4164253446079,
+      "wa_new": 63.998500206868016,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.2035587050997197,
+      "alr_new": 1.8237049099076474,
+      "features_ok": true
+    },
+    {
+      "base": "1663485_LW  AXI 3.0  B60f",
+      "wa_old": 47.641341972131,
+      "wa_new": 53.924100933836684,
+      "wa_source": "Dedicated File",
+      "alr_old": 1.2375216067900583,
+      "alr_new": 1.6584129529531453,
+      "features_ok": true
+    },
+    {
+      "base": "1814107_~LUNG AXL 1_1 LW",
+      "wa_old": 53.98844843238123,
+      "wa_new": 54.84584315660581,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.9776820880954501,
+      "alr_new": 1.4076553689612465,
+      "features_ok": true
+    },
+    {
+      "base": "2256243_Thorax Lung Br60 S2 3.00",
+      "wa_old": 59.75988020749773,
+      "wa_new": 62.10893569164707,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.7599637798962168,
+      "alr_new": 1.5900755615091495,
+      "features_ok": true
+    },
+    {
+      "base": "2291134_LW-insp.  AXI 3_3  B60f",
+      "wa_old": 69.47980684811237,
+      "wa_new": 75.84619633596219,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.5403573462832494,
+      "alr_new": 0.9662327065041838,
+      "features_ok": true
+    },
+    {
+      "base": "4205212_~LUNG AXL 1_1 LW",
+      "wa_old": 70.38260829934143,
+      "wa_new": 66.40415285015001,
+      "wa_source": "Dedicated File",
+      "alr_old": 1.0103405475956897,
+      "alr_new": 1.1664629470042618,
+      "features_ok": true
+    },
+    {
+      "base": "4230847_LW AXI 3_3  B60f",
+      "wa_old": 58.3421375745981,
+      "wa_new": 61.076928424931346,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8721087320693014,
+      "alr_new": 1.432737608602701,
+      "features_ok": true
+    },
+    {
+      "base": "4996166_Thorax Lung Br60 S2 3.00",
+      "wa_old": 50.30911415218895,
+      "wa_new": 51.916040136073875,
+      "wa_source": "Dedicated File",
+      "alr_old": 1.120174957351094,
+      "alr_new": 3.2847698038936746,
+      "features_ok": true
+    },
+    {
+      "base": "5925853_LungLowDose  1.0  Br59  2 LW",
+      "wa_old": 50.46006076644124,
+      "wa_new": 38.590184722889134,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.9320355953373484,
+      "alr_new": 1.3773372279260847,
+      "features_ok": true
+    },
+    {
+      "base": "6757504_~LUNG AX 1_1 LW",
+      "wa_old": 65.31960831352364,
+      "wa_new": 63.752696971951494,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.8154543837809,
+      "alr_new": 1.4342166103503469,
+      "features_ok": true
+    },
+    {
+      "base": "A267542_LW  AXI 3.0  B60f",
+      "wa_old": 58.73036312129797,
+      "wa_new": 60.38697089588641,
+      "wa_source": "Dedicated File",
+      "alr_old": 0.965409475457951,
+      "alr_new": 1.720264959278392,
+      "features_ok": true
+    }
+  ]
+}
